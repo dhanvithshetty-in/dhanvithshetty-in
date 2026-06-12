@@ -15,7 +15,7 @@
 ![Location](https://img.shields.io/badge/Bangalore-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <a href="https://github.com/dhanvithshetty-in">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Projects-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhanvith-shetty-569452259/">
@@ -42,20 +42,21 @@
 
 # About Me
 
-AI/ML Engineer passionate about building production-grade intelligent systems, scalable backend architectures, and enterprise software solutions. I focus strictly on Artificial Intelligence and Machine Learning, actively contributing to real-world AI products, LLM applications, and data-driven systems.
+AI Engineer and Machine Learning Developer specializing in Generative AI, Retrieval-Augmented Generation (RAG), NLP, and scalable backend systems. Experienced in designing production-grade AI applications using FastAPI, LangChain, Vector Databases, and modern cloud deployment workflows.
 
-My engineering philosophy combines strong software engineering fundamentals with modern AI capabilities to create reliable, scalable, and impactful products. I enjoy solving complex problems involving generative AI, backend systems, cloud deployment, and full-stack application development.
+Actively building enterprise AI products, LLM-powered systems, and full-stack applications that solve real-world business problems, grounded in a strong foundation of Artificial Intelligence & Machine Learning.
 
-### Open To
+My engineering philosophy combines strong software engineering fundamentals with modern AI capabilities to create reliable, scalable, and impactful products.
+
+### Currently Seeking
 
 - AI Engineer Roles
 - Machine Learning Engineer Roles
 - Software Development Engineer (SDE) Roles
-- Full Stack Engineering Opportunities
-- Generative AI & LLM Engineering
+- Generative AI & LLM Engineering Opportunities
+- Backend Engineering Roles
 - Product Engineering Teams
 - Open Source Collaborations
-- Research & Innovation Projects
 
 ---
 
@@ -183,6 +184,29 @@ Hybrid AI verification system combining deep learning and retrieval techniques f
 - Achieved a validated **99.98% accuracy score** combining deep learning models and Pandas profiling.
 - Conducted strict verification unit testing and data preprocessing to ensure fair algorithmic outcomes.
 - Formulated data validation methods to optimize accuracy and secure infrastructure compliance protocols.
+
+</details>
+
+<details>
+<summary><b>NotesRAG Contextual AI Assistant</b></summary>
+
+### Overview
+
+AI contextual assistant applying LangChain and vector databases to efficiently query unstructured documentation data.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, LangChain, FAISS, RAG |
+| Scale | Document Ingestion Pipelines |
+| Performance | Reduced query retrieval latency by 40% |
+| Security | Local Data Processing |
+| Links | [GitHub](https://github.com/dhanvithshetty-in/NotesRag) |
+
+### Project Highlights
+
+- Developed an AI contextual assistant applying LangChain to query unstructured documentation data.
+- Designed local document ingest pipelines using FAISS.
+- Cut query retrieval latency down by **40%** through optimized vector indexing.
 
 </details>
 
