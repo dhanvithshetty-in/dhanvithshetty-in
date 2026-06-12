@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Dhanvith%20Shetty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Building+Scalable+AI+Products+and+LLM+Systems;Full+Stack+Developer+with+Product+Engineering+Mindset;Open+Source+Contributor+and+Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=FFFFFFcenter=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Building+Scalable+AI+Products+and+LLM+Systems;Full+Stack+Developer+with+Product+Engineering+Mindset;Open+Source+Contributor+and+Problem+Solver"/>
 
 <br/>
 
