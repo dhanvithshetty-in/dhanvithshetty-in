@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Dhanvith%20Shetty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58"/>
@@ -15,7 +14,7 @@
 
 ![Location](https://img.shields.io/badge/Bangalore-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<a href="https://portfolio.example.com">
+<a href="https://github.com/dhanvithshetty-in">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -43,9 +42,9 @@
 
 # About Me
 
-AI/ML Engineer passionate about building production-grade intelligent systems, scalable backend architectures, and enterprise software solutions. Currently pursuing a Bachelor of Engineering in Artificial Intelligence & Machine Learning while actively contributing to real-world AI products, LLM applications, and data-driven systems.
+AI/ML Engineer passionate about building production-grade intelligent systems, scalable backend architectures, and enterprise software solutions. I focus strictly on Artificial Intelligence and Machine Learning, actively contributing to real-world AI products, LLM applications, and data-driven systems.
 
-My engineering philosophy combines strong software engineering fundamentals with modern AI capabilities to create reliable, scalable, and impactful products. I enjoy solving complex problems involving machine learning, Generative AI, backend systems, cloud deployment, and full-stack application development.
+My engineering philosophy combines strong software engineering fundamentals with modern AI capabilities to create reliable, scalable, and impactful products. I enjoy solving complex problems involving generative AI, backend systems, cloud deployment, and full-stack application development.
 
 ### Open To
 
@@ -68,7 +67,6 @@ My engineering philosophy combines strong software engineering fundamentals with
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![cpp](https://skillicons.dev/icons?i=cpp)
 ![js](https://skillicons.dev/icons?i=javascript)
 ![sql](https://skillicons.dev/icons?i=mysql)
 
@@ -120,11 +118,11 @@ My engineering philosophy combines strong software engineering fundamentals with
 # Featured Projects
 
 <details>
-<summary><b>Agentic AI Vendor Matchmaker Platform</b></summary>
+<summary><b>Agentic AI Vendor Matchmaker Platform (GenAI / RAG)</b></summary>
 
 ### Overview
 
-Production-ready AI matchmaking platform designed to intelligently connect clients with suitable vendors using LLMs, semantic retrieval, and recommendation pipelines.
+Production-ready AI matchmaking platform designed to intelligently connect clients with suitable vendors applying LLMs, semantic retrieval, and recommendation pipelines.
 
 | Category | Details |
 |-----------|-----------|
@@ -132,16 +130,13 @@ Production-ready AI matchmaking platform designed to intelligently connect clien
 | Scale | Enterprise Vendor Discovery |
 | Performance | Reduced compute costs by 20% |
 | Security | API Validation & Secure Processing |
-| Impact | Automated Vendor Recommendation Workflow |
-| Repository | https://github.com/dhanvithshetty-in/festiva-matchmaker-api |
+| Links | [GitHub](https://github.com/dhanvithshetty-in/festiva-matchmaker-api) \| [Live Demo](https://vendor-matchmaker-frontend.vercel.app/) |
 
 ### Project Highlights
 
-- Developed scalable AI-powered matchmaking workflows.
-- Integrated Gemini-powered semantic search.
-- Implemented retrieval-augmented recommendation pipelines.
-- Optimized inference and deployment architecture.
-- Designed production-grade APIs for enterprise usage.
+- Developed a scalable web application integrating complex Generative AI and LLM fundamentals.
+- Integrated a Gemini API engine to run semantic search and synthesize unstructured client datasets.
+- Optimized model performance and instruction architectures to drop pipeline compute costs by **20%**.
 
 </details>
 
@@ -158,16 +153,13 @@ Machine learning powered Formula 1 race strategy prediction platform capable of 
 | Scale | Real-Time Telemetry Analytics |
 | Performance | Low-Latency Predictions |
 | Security | Secure API Exposure |
-| Impact | Data-Driven Race Strategy Decisions |
-| Repository | https://github.com/dhanvithshetty-in/f1-strategy-api |
+| Links | [GitHub](https://github.com/dhanvithshetty-in/f1-strategy-api) \| [Live Demo](https://f1-strategy-api.vercel.app/) |
 
 ### Project Highlights
 
-- Built distributed backend architecture.
-- Implemented Random Forest prediction models.
-- Real-time telemetry ingestion pipelines.
-- Interactive analytics dashboard.
-- Production deployment and monitoring.
+- Engineered a distributed Python application testing and tracking live data for predictive modeling.
+- Built a FastAPI backend executing real-time classification via Scikit-learn Random Forest models.
+- Handled deployment targets and continuous performance monitoring to securely expose API endpoints.
 
 </details>
 
@@ -180,20 +172,17 @@ Hybrid AI verification system combining deep learning and retrieval techniques f
 
 | Category | Details |
 |-----------|-----------|
-| Stack | BERT, Python, Pandas, NLP |
+| Stack | BERT, Python, Pandas, NLP, RAG |
 | Scale | Large Dataset Validation |
 | Performance | 99.98% Accuracy |
 | Security | Validation & Compliance Pipelines |
-| Impact | Reliable News Verification |
-| Repository | https://github.com/dhanvithshetty-in/Fake-News-Detector-BERT-RAG |
+| Links | [GitHub](https://github.com/dhanvithshetty-in/Fake-News-Detector-BERT-RAG) \| [Live Demo](https://dhanvithshetty-in-fake-news-detector-bert-rag-srcapp-rty5ui.streamlit.app/) |
 
 ### Project Highlights
 
-- Deep learning classification pipelines.
-- Advanced preprocessing workflows.
-- Data validation mechanisms.
-- Explainable AI prediction outputs.
-- Streamlit deployment.
+- Achieved a validated **99.98% accuracy score** combining deep learning models and Pandas profiling.
+- Conducted strict verification unit testing and data preprocessing to ensure fair algorithmic outcomes.
+- Formulated data validation methods to optimize accuracy and secure infrastructure compliance protocols.
 
 </details>
 
@@ -205,15 +194,13 @@ Hybrid AI verification system combining deep learning and retrieval techniques f
 
 **April 2026 – Present**
 
-Contributing to AI-focused data engineering and machine learning initiatives involving large-scale datasets, automation workflows, and model development.
+Spearheading AI-focused data engineering and machine learning initiatives involving large-scale datasets, automation workflows, and robust model development.
 
 ### Responsibilities
 
-- Data preprocessing and analytics.
-- Python automation pipelines.
-- SQL optimization.
-- Model performance monitoring.
-- Cross-functional collaboration.
+- Developed robust Python automation pipelines and optimized SQL queries for enhanced performance.
+- Led data preprocessing, analytics, and continuous model performance monitoring.
+- Facilitated cross-functional collaboration to align technical solutions with organizational goals.
 
 **Skills**
 
@@ -225,19 +212,35 @@ Contributing to AI-focused data engineering and machine learning initiatives inv
 
 **Feb 2026 – May 2026**
 
-Worked on building production-ready AI systems and agentic applications leveraging modern LLM architectures.
+Engineered production-ready AI systems and agentic applications applying modern LLM architectures.
 
 ### Responsibilities
 
-- Developed Agentic AI platform.
-- Built FastAPI backend services.
-- Improved model accuracy by 25%.
-- Containerized deployments using Docker.
-- Managed Git-based development workflows.
+- Developed an advanced Agentic AI platform incorporating state-of-the-art NLP pipelines.
+- Designed and deployed FastAPI backend services, improving model accuracy by **25%**.
+- Containerized deployment workflows utilizing Docker and managed Git-based version control.
 
 **Skills**
 
 `Python` `FastAPI` `Docker` `LLMs` `Scikit-Learn`
+
+---
+
+## Data Science Intern | The Developers Arena
+
+**Feb 2026 – Present**
+
+Contributing to remote data science operations, predictive modeling, and analytical workflows.
+
+### Responsibilities
+
+- Developed and validated machine learning models for remote enterprise requirements.
+- Conducted comprehensive data analysis to extract actionable business insights.
+- Maintained rigorous documentation and code quality standards.
+
+**Skills**
+
+`Python` `Data Science` `Machine Learning` `Analytics`
 
 ---
 
@@ -260,27 +263,11 @@ Worked on building production-ready AI systems and agentic applications leveragi
 
 # Certifications
 
-### AWS
+### Microsoft
+![Azure AI](https://img.shields.io/badge/Microsoft-Azure%20AI%20Professional-0078D4?style=for-the-badge&logo=microsoftazure)
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-AI%20%26%20ML-4F46E5?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### Additional Certifications
-
-![Azure AI](https://img.shields.io/badge/Microsoft-Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure)
+### Anthropic
 ![Claude API](https://img.shields.io/badge/Anthropic-Claude%20API-7C3AED?style=for-the-badge)
-![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge)
 
 ---
 
@@ -288,19 +275,19 @@ Worked on building production-ready AI systems and agentic applications leveragi
 
 <div align="center">
 
-<a href="#">
+<a href="https://leetcode.com/u/dhanvithshetty333/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.geeksforgeeks.org/user/dhanvithshetty333/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.hackerrank.com/profile/dhanvithshetty31">
 <img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.codechef.com/users/dhanvithshetty">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
 
@@ -378,41 +365,3 @@ open_to:
   - ML Engineer Roles
   - Software Engineer Roles
   - Open Source Collaboration
-````
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:dhanvithshetty333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dhanvithshetty333%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhanvith-shetty-569452259/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhanvith%20Shetty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dhanvithshetty-in">
-<img src="https://img.shields.io/badge/GitHub-dhanvithshetty--in-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering intelligent systems that transform ideas into scalable products."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
-
-```
-```
