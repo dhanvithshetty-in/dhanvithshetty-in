@@ -2,7 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Dhanvith%20Shetty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58"/>
 
+<h3 align="center">AI Engineer • GenAI Developer • Software Engineer</h3>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Building+Scalable+AI+Products+and+LLM+Systems;Full+Stack+Developer+with+Product+Engineering+Mindset;Open+Source+Contributor+and+Problem+Solver"/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanvithshetty-in&theme=tokyonight" />
+</p>
 
 <br/>
 
@@ -15,7 +21,7 @@
 ![Location](https://img.shields.io/badge/Bangalore-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <a href="https://github.com/dhanvithshetty-in">
-<img src="https://img.shields.io/badge/Portfolio-Projects-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-View%20Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhanvith-shetty-569452259/">
@@ -24,10 +30,6 @@
 
 <a href="mailto:dhanvithshetty333@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dhanvithshetty-in">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
@@ -68,6 +70,7 @@ My engineering philosophy combines strong software engineering fundamentals with
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
+![cpp](https://skillicons.dev/icons?i=cpp)
 ![js](https://skillicons.dev/icons?i=javascript)
 ![sql](https://skillicons.dev/icons?i=mysql)
 
@@ -137,7 +140,7 @@ Production-ready AI matchmaking platform designed to intelligently connect clien
 
 - Developed a scalable web application integrating complex Generative AI and LLM fundamentals.
 - Integrated a Gemini API engine to run semantic search and synthesize unstructured client datasets.
-- Optimized model performance and instruction architectures to drop pipeline compute costs by **20%**.
+- Optimized model performance and instruction architectures to drop pipeline compute costs by **20%** and improve recommendation accuracy by **25%**.
 
 </details>
 
@@ -158,7 +161,7 @@ Machine learning powered Formula 1 race strategy prediction platform capable of 
 
 ### Project Highlights
 
-- Engineered a distributed Python application testing and tracking live data for predictive modeling.
+- Engineered a distributed Python application testing and tracking live data for predictive modeling, processing **44,000+** telemetry records.
 - Built a FastAPI backend executing real-time classification via Scikit-learn Random Forest models.
 - Handled deployment targets and continuous performance monitoring to securely expose API endpoints.
 
@@ -206,7 +209,7 @@ AI contextual assistant applying LangChain and vector databases to efficiently q
 
 - Developed an AI contextual assistant applying LangChain to query unstructured documentation data.
 - Designed local document ingest pipelines using FAISS.
-- Cut query retrieval latency down by **40%** through optimized vector indexing.
+- Cut query retrieval latency down by **40%** through optimized indexing of **2400+ vectors**.
 
 </details>
 
@@ -293,6 +296,9 @@ Contributing to remote data science operations, predictive modeling, and analyti
 ### Anthropic
 ![Claude API](https://img.shields.io/badge/Anthropic-Claude%20API-7C3AED?style=for-the-badge)
 
+### Deloitte
+![Deloitte Data Analytics](https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge)
+
 ---
 
 # Coding Profiles
@@ -348,6 +354,10 @@ Contributing to remote data science operations, predictive modeling, and analyti
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanvithshetty-in&theme=tokyo-night&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanvithshetty-in&theme=tokyonight" />
 
 </div>
 
